@@ -66,7 +66,7 @@ Core-java/
 
 ## 👩‍💻 Author
 
-**Alekhya Gontla**  
+**Katari Jahnavi**  
 [GitHub](https://github.com/KatariJahnavi)
 
 ---
